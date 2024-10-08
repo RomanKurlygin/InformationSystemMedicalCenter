@@ -1,0 +1,6 @@
+mysql-connector-python==8.1.0
+pip==22.0.4
+protobuf==4.21.12
+psgdemos==1.12.1
+PySimpleGUI==4.60.5
+setuptools==58.1.0
